@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Curriculum Vitae Tom Souchet</title>
+  </head>
+  <body>
+<header>Etudiant en Bachelor E-Business</header>
+<div>
+		<h2>Profil</h2>
+		<p>A la recherche  d'un stage où je pourrai découvrir le monde du digital et acquérir de nouvelles compétences !</p> 
+		<p>J'aimerai allier ma passion à mon métier qui n'est autre que la musique.</p> 
+</div>
+<div>
+		<h2>Expériences</h2>
+	<ul>
+		<li>Intérimaire en Assurance</li>
+		<p>April Moto Tours, Fin juillet 2020 - août 2020 (5 semaines)</p>
+		
+		<li>Stagiaire dans le commerce</li>
+		<p>Bouchara Tours, mars 2019 - février 2020 (11 semaines)</p>
+
+		<li>Stagiaire dans le commerce</li>
+		<p>Devred Tours, octobre 2018 - janvier 2019 (3 semaines)</p>
+
+		<li>Salarié en milieu hospitalier</li>
+		<p>Pôle Santé Léonard de Vinci, Février 2018 - août 2019 (52 semaines)</p>
+	</ul>
+</div>
+<div>
+		<h2>Formations</h2>
+	<ul>
+		<li>Bachelor EBusiness</li>
+		<p>MyDigitalSchool, 2020-2021</p>
+		<li>BTS Management des Unités Commerciales</li>
+		<p>Lycée Sainte-Marguerite, 2018-2020</p>
+		<li>Bac STI2D Spécialité SIN</li>
+		<p>Lycée Durzy, 2015-2017</p>
+	</ul>
+</div>
+<div>
+		<h2>Compétences</h2>
+	<ul>
+		<li>Anlgais: intermédiaire</li>
+		<li>Espagnol: Débutant</li>
+		<li>Pack Office</li>
+		<li>Techniques de vente</li>
+		<li>Argumentation commerciale</li>
+	</ul>
+</div>
+<div>
+		<h2>Centre d'intérêts</h2>
+	<ul>
+		<li>La musique
+		<p>Pianiste depuis l'enfance</p>
+		<li>Cinéma</li>
+		<p>Cinéphile</p>
+		<li>Voyage</li> 
+		<p>L'angleterre, la Hollande, l'Allemagne, le Luxembourg, la Belgique, l'Espagne, la Tunisie, la Martinique, l'Italie, la France, la Corse  </p>
+		<li>L'informatique</li>
+		<p>Je m'interesse particulièrement à l'évolution de la technologie concernant le commerce, le design, l'évolution des villes et les jeux vidéos</p>
+	</ul>
+</div>
+<div>
+		<h2>Personnalité</h2>
+	<ul>	
+		<li>Curieux</li>
+		<li>Persévérant</li>
+		<li>Optimiste</li>
+		<li>Honnête</li>
+	<ul/>
+</div>
+<div>
+		<h2>Contact</h2>
+		<p>Portable : 06 67 46 35 53</p>
+		<p>Email : tom.souchet@live.fr</p>
+		<p>Adresse : Nantes, 44100, Loire-Atlantique</p>
+</div>
+<div>
+		<h2>Réseaux</h2>
+		<p><a href="https://www.facebook.com/tom.souchet1997/">Facebook</p>
+		<p><a href="https://www.instagram.com/tomsouchet/">Instagram</p>
+		</a>
+</div>
+<div>
+		<h3>J'étudie en ce moment...</h3>
+		<p>La création d'instrumentale pour l'enregistrement de musique</p>
+<div/>
+</body>
+</html> 
